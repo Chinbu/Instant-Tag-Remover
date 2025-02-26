@@ -1,0 +1,6 @@
+{
+  "bb_sync_version":"1.0",
+  "name":"Go_Tag_Remover_Bot",
+  "csv_url":"https://docs.google.com/spreadsheets/d/1fzqolD3sJLSaQ_RZEmRbhesclnyngP3Wsd_eTq8hpXw/edit?usp=sharing",
+  "git_remote":"git@github.com:Chinbu/Instant-Tag-Remover"
+}
